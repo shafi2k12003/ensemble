@@ -15,8 +15,12 @@ This simple REST web service project is created in Django Rest Framework with Py
 * Download and Unzip/Git clone the project in your PC
 * Open the project in PyCharm
 * Create virtual environment with Django, djangorestframework, mysqlclient installed
-* Edit run configuration with runserver parameter
-* Click the run button
+* Select Run | Edit Configurations from the main menu
+* In the Run Configuration dialog, click + icon on the toolbar.Select Python as desired configuration type.
+* Browse and set manage.py file from ensemble project to script path
+* Set runserver in parameters option
+* Click OK button to save and close configuration windows
+* Click the Run button
 
 
 ### How to access endpoint
