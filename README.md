@@ -24,7 +24,7 @@ This simple REST web service project is created in Django Rest Framework with Py
 
 
 ### How to access endpoint
-* In your browser browse the url http://localhost:8000/genes/?lookup=brc
-* In Postman make GET request to the url http://localhost:8000/genes with lookup parameter value brc 
+* In your browser browse the url http://localhost:8000/api/genes/?lookup=brc
+* In Postman make GET request to the url http://localhost:8000/api/genes with lookup parameter value brc 
 
 
